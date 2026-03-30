@@ -100,8 +100,8 @@ http://localhost:8088/swagger-ui/index.html#/
 ### Installation
 1. **Clone the repository**
 ```bash
-git clone https://github.com/arpitchoubisa33/Online-Shopping-App-SpringBoot
-cd Online-Shopping-App-SpringBoot
+git clone https://github.com/arpitchoubisa33/Online-Shopping-App
+cd Online-Shopping-App
 ```
 2. **Configure database**  
 Update the database credentials in the `application.properties` file (see Database Configuration section below).
